@@ -3,7 +3,7 @@
 First pair-project of Hive Helsinki <br>
 The program tries to find the smallest possible square to fit pieces given as a file. <br> 
 If multiple possible solutions, the program tries to fit the pieces in order starting from the upperleft corner. <br>
-My partner in this project: jhaukil.
+My partner in this project: jhaukile.
 
 ## Valid pieces (typical tetris pieces)
 Pieces can be anywhere in the 4x4 grid. The grid can hold only 1 piece. <br>
